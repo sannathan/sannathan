@@ -31,9 +31,7 @@ Apaixonado por tecnologia, gosto de explorar novas stacks, resolver problemas co
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannathan&theme=algolia&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sannathan&theme=algolia&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannathan&theme=transparent&hide_border=true&hide_progress=true&hide=perl,makefile&langs_count=8)
 
 ---
 
